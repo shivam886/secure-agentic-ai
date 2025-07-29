@@ -1,0 +1,3 @@
+technique_id,name
+attack-pattern--abc12345-6789-0abc-def1-234567890abc,"Phishing"
+attack-pattern--def23456-7890-1bcd-ef23-456789012def,"Remote Services"
