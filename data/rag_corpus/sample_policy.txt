@@ -1,0 +1,4 @@
+Athenian agents must ensure all outbound API requests are monitored.
+Sensitive data should be encrypted using AES-256.
+Agent telemetry is logged hourly and audited for anomalies.
+Prompt injection attacks are mitigated using content filters and guardrails.

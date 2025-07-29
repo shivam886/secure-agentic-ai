@@ -1,0 +1,9 @@
+lasr-env/
+venv/
+env/
+__pycache__/
+*.pyc
+.vscode/
+faiss_index/
+.streamlit/
+logs/
