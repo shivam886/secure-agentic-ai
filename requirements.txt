@@ -9,3 +9,4 @@ networkx
 streamlit
 unstructured
 pypdf
+psutil
